@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807885772797",
+    "project_id": "notes-app-bb450",
+    "storage_bucket": "notes-app-bb450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807885772797:android:7f62b557de1a04704f6b94",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807885772797-eum3mh266qlincdnu02g7nsfthi5l1rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhehh9BL9p8CsTYmuxIkGJlII9VVmVwtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807885772797-eum3mh266qlincdnu02g7nsfthi5l1rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
